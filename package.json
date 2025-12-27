@@ -1,0 +1,30 @@
+{
+  "name": "clerk-claude-skill",
+  "version": "1.0.0",
+  "description": "Claude Code skill for Clerk authentication integration, E2E testing, and middleware patterns",
+  "keywords": [
+    "clerk",
+    "authentication",
+    "astro",
+    "nextjs",
+    "playwright",
+    "e2e-testing",
+    "claude-skill"
+  ],
+  "author": "021.School",
+  "license": "MIT",
+  "claude-skill": {
+    "name": "clerk",
+    "triggers": [
+      "clerk",
+      "authentication",
+      "sign in",
+      "sign up",
+      "auth middleware",
+      "clerk testing",
+      "e2e auth",
+      "device verification",
+      "clerk_test"
+    ]
+  }
+}
